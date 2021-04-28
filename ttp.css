@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 50em) {
+  html {
+    font-size: 2vmax;
+  }
+}
+body {
+
+  background-image:url(images/banner.jpg);
+  background-position: left;
+  background-repeat: no-repeat;
+  width: 100%;
+  height:auto;
+  background-position: center;
+  background-repeat: no-repeat;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	align-content: center;
+}
+
+.main {margin-top: 8%;
+height: 500px;
+width: 100%;
+margin-bottom: 0%;
+}
+
+h1 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 3em;
+	font-weight: 800;
+	line-height: 1em;
+	width: 50%;
+	float: left;
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-bottom: 50px;
+  color: #145F1F
+}
+
+.bodytext {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #000000;
+	font-weight: 200;
+	float: left;
+	margin-left: 10%;
+	width: 50%;
+	font-size: 0.8em;
+	margin-bottom: 10px;
+	margin-top: 0px;
+}
+
+.findus {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #000000;
+	font-weight: 600;
+	float: left;
+	margin-left: 10%;
+	width: 50%;
+	font-size: 22px;
+	padding-bottom: 2px;
+	margin-top: 10px;
+}
+
+.social {
+	width: 100%;
+	float: left;
+	padding-left: 0px;
+	height: 60px;
+	margin-left: 10%;
+	vertical-align: middle;
+	color: #666666;
+	margin-bottom: 0px;
+}
+a.soc {color:#145F1F;}
+
+.signup {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #FFFFFF;
+	background: #145F1F;
+	font-weight: 600;
+	float: left;
+	width: 100%;
+	font-size: 0.7em;
+	margin-bottom: 0px;
+	margin-top: 0px;
+
+
+}
+#mc_embed_signup{background:none; margin-left: 0px; padding-left: 0px; clear:left; font:14px Helvetica,Arial,sans-serif;
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+margin-bottom: 10px;
+width: 100%; }
+
+#mc_embed_signup .mc-field-group {font-size: 1em; }
+
+
+#mc-embedded-subscribe-form {font-size: 1em; margin-left: 10%; padding-top: 0px; width:75%; color: #ffffff;}
+
+
+a.foot {color: #fff;}
+
+footer {
+	width: 100%;
+	text-align: center;
+	background-color: #5DA73C;
+	margin-top: 0px;
+	height: 175px;
+	float: left;
+
+}
+.footer_text {
+	margin-top: 0px;
+	padding-top: 20px;
+	color: #fff;
+	font-weight: normal;
+	font-family: "Gotham", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 0.5em;
+	align-content: center;
+}
+
+.footer_logo {
+	padding-top: 20px;
+
+}
